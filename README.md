@@ -1,4 +1,7 @@
-## Hi there 👋
+# Olá, me chamo Carlos Queiroz! 
+## Bem vindo ao meu perfil GitHub 👋
+
+Sou graduando em Ciência e Tecnologia e estou aprofundando meus conhecimentos em backend com Java por meio da especialização da ONE da Oracle. Tenho desenvolvido habilidades em programação orientada a objetos, com foco em criar soluções eficientes e robustas. Estou comprometido com a constante evolução profissional, sempre em busca de aprimorar minhas capacidades técnicas para enfrentar os desafios do mercado de tecnologia e contribuir de forma significativa para o crescimento das empresas.
 
 <!--
 **CarlossQueiroz/CarlossQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
