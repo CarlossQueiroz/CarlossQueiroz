@@ -1,4 +1,5 @@
-# Olá, me chamo Carlos Queiroz! 
+![image](https://github.com/user-attachments/assets/de56f1fe-a44f-4199-a829-a4aa1e8bae10)
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 Sou técnico em Informática pelo IFRN, graduando em Ciência e Tecnologia e atualmente me especializando em backend pelo programa ONE da Oracle. Também estudo desenvolvimento fullstack para ampliar minhas habilidades. Busco iniciar minha carreira na área de tecnologia, destacando minha comunicação, proatividade e facilidade de trabalho em equipe.
