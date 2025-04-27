@@ -1,8 +1,20 @@
 # Olá, me chamo Carlos Queiroz! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou graduando em Ciência e Tecnologia e estou aprofundando meus conhecimentos em backend com Java por meio da especialização da ONE da Oracle. Tenho desenvolvido habilidades em programação orientada a objetos, com foco em criar soluções eficientes e robustas. Estou comprometido com a constante evolução profissional, sempre em busca de aprimorar minhas capacidades técnicas para enfrentar os desafios do mercado de tecnologia e contribuir de forma significativa para o crescimento das empresas.
+Sou técnico em Informática pelo IFRN, graduando em Ciência e Tecnologia e atualmente me especializando em backend pelo programa ONE da Oracle. Também estudo desenvolvimento fullstack para ampliar minhas habilidades. Busco iniciar minha carreira na área de tecnologia, destacando minha comunicação, proatividade e facilidade de trabalho em equipe.
 
+## Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+## Ferramnetas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" />
+          
 <!--
 **CarlossQueiroz/CarlossQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
