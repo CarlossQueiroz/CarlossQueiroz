@@ -1,8 +1,9 @@
+# Bem-vindo ao meu perfil GitHub 👋
 ![image](https://github.com/user-attachments/assets/de56f1fe-a44f-4199-a829-a4aa1e8bae10)
 
-## Bem vindo ao meu perfil GitHub 👋
+Sou técnico em Informática pelo IFRN e atualmente estou cursando Bacharelado em Ciência e Tecnologia. Em breve, iniciará minha jornada na Engenharia da Computação. Também estou me especializando em backend através do programa ONE da Oracle e, paralelamente, estudo sobre desenvolvimento fullstack.
 
-Sou técnico em Informática pelo IFRN, graduando em Ciência e Tecnologia e atualmente me especializando em backend pelo programa ONE da Oracle. Também estudo desenvolvimento fullstack para ampliar minhas habilidades. Busco iniciar minha carreira na área de tecnologia, destacando minha comunicação, proatividade e facilidade de trabalho em equipe.
+Minha paixão por tecnologia é a força motriz da minha carreira, e meu objetivo é ingressar de forma sólida no setor e me tornar um profissional de sucesso. Sou comunicativo, proativo e me adapto bem ao trabalho em equipe, habilidades que considero essenciais para o ambiente de tecnologia. Com um compromisso constante com o aprendizado e aprimoramento, busco sempre entregar soluções inovadoras e de qualidade, e estou em busca de novas oportunidades para crescer e contribuir no mundo da tecnologia.
 
 <div>
   <a href = "mailto:chqueiroz2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,28 +12,25 @@ Sou técnico em Informática pelo IFRN, graduando em Ciência e Tecnologia e atu
 </div>
 
 
-## Tecnologias
+## Tecnologias e ferramentas 💻🔧
 <div style="display: inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30" />
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" />
   
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-</div>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" />
 
-## Ferramentas
-<div style="display: inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30" />
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" />
 </div>
 
 <!--
